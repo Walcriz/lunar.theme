@@ -21,8 +21,8 @@
 
 /* VARIABLES */
 :root {
-    --tropo: #3281ea;
-    --strato: #0284e8;
+    --tropo: #464646;
+    --strato: #393939;
     --meso: #02a3e8;
     --thermo: #02bbe8;
     --nebula: #05844A;
@@ -53,7 +53,7 @@
     --scrollbar-auto-thumb: var(--tropo, #3281ea);
     --scrollbar-auto-track: var(--background-tertiary);
     --scrollbar-thin-thumb: var(--tropo, #3281ea);
-    --text-link: var(--tropo, #3281ea);
+    --text-link: #3281ea;
     --text-brand: var(--interactive-normal);
     --toast-background: var(--background-secondary) !important;
     --toast-header: var(--background-tertiary) !important;
