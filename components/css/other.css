@@ -27,9 +27,6 @@
   box-shadow: inset 0 -4px 0 var(--background-primary) !important;
 }
 
-.tabBarItem-2eb9Nh, .tabBarItem-3nPo4Z, .tabBarItem-30Te4- {
-  border-radius: 0 !important;
-}
 .tabBarItem-2eb9Nh:hover, .tabBarItem-3nPo4Z:hover, .tabBarItem-30Te4-:hover {
   background-color: transparent !important;
 }
@@ -43,23 +40,6 @@
 
 .avatarHint-k7pYop {
   display: none;
-}
-
-.interactive-26HRN_ {
-    border-radius: 2rem;
-}
-.modeSelected-3DmyhH .link-1_kTxV {
-    border-radius: 2rem;
-}
-.containerDefault-YUSmu3 .link-1_kTxV {
-    border-radius: 2rem;
-}
-.layout-1qmrhw {
-    border-radius: 2rem;
-}
-
-.button-12Fmur {
-    border-radius: 50%;
 }
 
 /*# sourceMappingURL=other.css.map */
