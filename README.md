@@ -1,1 +1,1 @@
-Forked version of the origial lunar theme made for discord with the blue removed.
+Forked version of the original lunar theme made for discord with the blue removed.
